@@ -70,11 +70,12 @@ body {
   }
   
   #course-content .modules-list .module {
+
     color: white;
     width: 530px;
     margin: 0 auto 24px;
     border: 1px solid #33A8DB;
-    background-color: #252525;
+    background-color:transparent ;
     padding: 16px;
     border-radius: 100px;
     box-shadow: inset -5px 6px 8px rgba(0, 0, 0, .7);
